@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2? family= Bebas+Neue & family= Noto+Sans:wght@500;600 & family= Oswald & display=swap');
+
+
+.Titulo1 {
+  text-align: center;
+  color: rgb(253, 244, 244);
+  font-size: 50px;
+}
+
+.explicación {
+  text-align: center;
+  color: white;
+  text-align: center;
+  padding: 10px
+}
+
+.container-fluid{
+  flex-direction: row;
+  display: flex;
+  color: white;
+}
+
+.lista {
+  display: flex;
+  padding: 15px;
+  gap: 280px;
+  margin: 5px;
+}
+
+
+.titulo2 {
+  text-align: center;
+  color: white;
+}
+
+.contacto {
+  text-align: right;
+  padding: 15px;
+}
+
+ul {
+    list-style: none;
+}
+
+.c-item {
+    height: 300px;
+}
+
+.c-img {
+    height: auto;
+    object-fit: cover;
+    border: 10cm
+}
+
+.slide {
+    margin-top: 20px;
+}
+
+.nombre {
+    color: white;
+}
