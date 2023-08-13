@@ -5,6 +5,7 @@
   text-align: center;
   color: rgb(253, 244, 244);
   font-size: 50px;
+  color: yellow;
 }
 
 .explicación {
@@ -25,6 +26,7 @@
   padding: 15px;
   gap: 280px;
   margin: 5px;
+  color: yellow;
 }
 
 
@@ -58,4 +60,13 @@ ul {
 
 .nombre {
     color: white;
+}
+
+.carousel-inner {
+  height: 65vh;
+  min-height: 300px;
+}
+
+.text{
+  color: yellow;
 }
