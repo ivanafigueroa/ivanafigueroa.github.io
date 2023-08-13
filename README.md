@@ -1,2 +1,2 @@
 # ivanafigueroa.github.io
-Project website para Jamericas
+Project website para desarollo web de Jamericas
